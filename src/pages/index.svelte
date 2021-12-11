@@ -1,8 +1,8 @@
 <script>
     import { metatags } from '@roxi/routify'
     
-    metatags.title = 'My Routify app'
+    metatags.title = 'Lemonade Palace'
     metatags.description = 'Description coming soon...'
 </script>
 
-<h1 class="cursor-pointer">Hallo Beatrice</h1>
+<h1 class="cursor-pointer h-screen">Hallo Beatrice</h1>
