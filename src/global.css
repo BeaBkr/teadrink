@@ -1,3 +1,19 @@
+@font-face {
+    font-family: balestic;
+    src: url(../public/fonts/balestic-italic.otf);
+}
+
+@font-face {
+    font-family: dinalternate;
+    src: url(../public/fonts/DINAlternate-Bold.woff);
+}
+
+.img {
+    height: 460px;
+    width: 910px;
+}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
