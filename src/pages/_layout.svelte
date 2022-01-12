@@ -4,6 +4,6 @@
 
 <!-- routify:options preload="proximity" -->
 <Nav/>
-<div class="bg-pink-50">
+<div class="bg-pink-50 font-din">
 <slot />
 </div>
