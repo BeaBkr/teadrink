@@ -36,7 +36,7 @@
     </div>
 
     <img
-      src="../public/img/Informatik.png"
+      src="./public/img/Informatik.png"
       alt="teatime"
       class="p-10 img mt-14 mr-14"
     />
